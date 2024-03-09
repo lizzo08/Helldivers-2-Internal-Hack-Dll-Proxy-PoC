@@ -11,7 +11,6 @@ class GameData
 		bool	InfStratagems = false;
 		bool	InfMissionTime = false;
 		bool	InfStamina = false;
-		bool	InfHealth = false;
 		bool	NoReload = false;
 		bool	MaxResources = false;
 		bool	Add5Resources = false;
